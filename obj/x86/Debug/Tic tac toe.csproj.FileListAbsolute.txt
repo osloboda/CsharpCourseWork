@@ -1,0 +1,9 @@
+C:\Users\Олег\Desktop\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Users\Олег\Desktop\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.pdb
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\Tic tac toe.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.MainForm.resources
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.Properties.Resources.resources
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\Tic tac toe.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\Tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.pdb

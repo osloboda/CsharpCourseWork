@@ -1,0 +1,17 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.Properties.Resources.resources
+C:\Projects_CSharp\Examples\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.MainForm.resources
+C:\Users\Олег\Desktop\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Users\Олег\Desktop\WindowsFormsApplication309\bin\Debug\WindowsFormsApplication309 _ 333.pdb
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.MainForm.resources
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.Properties.Resources.resources
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.exe
+C:\Users\Олег\Desktop\WindowsFormsApplication309\obj\x86\Debug\WindowsFormsApplication309 _ 333.pdb
